@@ -6,7 +6,7 @@ Generate a README directly from your terminal. When initiated, a series of quest
 
 ## Demo
 
-https://watch.screencastify.com/v/fuysEWzMVSRjGldAF6gA
+https://user-images.githubusercontent.com/117963379/235376188-2b924796-81f3-4f66-bfc0-895fcd1d1a3a.mp4
 
 ## Prerequisite
 
