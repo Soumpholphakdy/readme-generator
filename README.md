@@ -6,6 +6,8 @@ Generate a README directly from your terminal. When initiated, a series of quest
 
 ## Demo
 
+https://watch.screencastify.com/v/fuysEWzMVSRjGldAF6gA
+
 ## Prerequisite
 
 * npm >= v8.15.1
